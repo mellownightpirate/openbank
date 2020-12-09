@@ -1,7 +1,7 @@
 {
-  "name": "mern-auth",
+  "name": "open-bank",
   "version": "1.0.0",
-  "description": "Mern Auth Example",
+  "description": "A personal banking web app",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
